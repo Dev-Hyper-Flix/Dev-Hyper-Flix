@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Dev-Hyper-Flix&style=for-the-badge&color=7c3aed&labelColor=0d0221&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Dev-Hyper-Flix?style=for-the-badge&color=7c3aed&labelColor=0d0221&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/Dev-Hyper-Flix?style=for-the-badge&color=7c3aed&labelColor=0d0221&label=FOLLOWERS"/> 
 &nbsp;
 <img src="https://img.shields.io/badge/YEAR-3rd%20B.TECH-a855f7?style=for-the-badge&labelColor=0d0221"/>
 
