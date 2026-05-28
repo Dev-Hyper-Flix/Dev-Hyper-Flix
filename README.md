@@ -111,19 +111,19 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-🔥%20Mastered-a855f7?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533)
+![Python](https://img.shields.io/badge/Python-%F0%9F%94%A5%20Mastered-a855f7?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533)
 &nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-🔥%20Mastered-a855f7?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0533)
+![MySQL](https://img.shields.io/badge/MySQL-%F0%9F%94%A5%20Mastered-a855f7?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0533)
 &nbsp;
-![SQL](https://img.shields.io/badge/SQL-🔥%20Mastered-a855f7?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533)
+![SQL](https://img.shields.io/badge/SQL-%F0%9F%94%A5%20Mastered-a855f7?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533)
 
 <br/>
 
-![C](https://img.shields.io/badge/C-⚡%20Basics-7c3aed?style=for-the-badge&logo=c&logoColor=white&labelColor=1a0533)
+![C](https://img.shields.io/badge/C-%E2%9A%A1%20Basics-7c3aed?style=for-the-badge&logo=c&logoColor=white&labelColor=1a0533)
 &nbsp;
-![Java](https://img.shields.io/badge/Java-⚡%20Basics-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0533)
+![Java](https://img.shields.io/badge/Java-%E2%9A%A1%20Basics-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0533)
 &nbsp;
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-⚡%20Basics-7c3aed?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a0533)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%E2%9A%A1%20Basics-7c3aed?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a0533)
 
 <br/><br/>
 
@@ -167,12 +167,6 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-Hyper-Flix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_radius=14&count_private=true&rank_icon=github&cache_seconds=1800" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Hyper-Flix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&border_radius=14&langs_count=8&cache_seconds=1800" height="175"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=Dev-Hyper-Flix&theme=tokyonight&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=e2e8f0&sideLabels=a78bfa&currStreakNum=c084fc&sideNums=c084fc&dates=6b7280&border_radius=14" width="62%"/>
 
 <br/><br/>
@@ -191,7 +185,19 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-Hyper-Flix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%"/>
+![](https://img.shields.io/badge/🏆%20First%20Commit-Unlocked-a855f7?style=for-the-badge&labelColor=1a0533)
+&nbsp;
+![](https://img.shields.io/badge/📦%20First%20Repo-Unlocked-a855f7?style=for-the-badge&labelColor=1a0533)
+&nbsp;
+![](https://img.shields.io/badge/👥%20Joined%20GitHub-Unlocked-a855f7?style=for-the-badge&labelColor=1a0533)
+
+<br/><br/>
+
+> *🔒 More trophies unlock as contributions grow — check back soon!*
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-Hyper-Flix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" width="80%"/>
 
 </div>
 
@@ -287,7 +293,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreya%20Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-mishra-0b7a10331)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter%2FX-@shreya745963052-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a0533)](https://x.com/shreya745963052)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-%40shreya745963052-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a0533)](https://x.com/shreya745963052)
 &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-shreyamishra__43116-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0533)](https://discord.com/users/shreyamishra_43116)
 
