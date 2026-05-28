@@ -190,7 +190,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/><br/>
 
-*🔒 More trophies unlock as contributions grow — the board will appear here automatically!*
+*🔒 More trophies unlock as contributions grow!*
 
 </div>
 <!-- TROPHY_PLACEHOLDER_END -->
