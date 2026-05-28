@@ -183,6 +183,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 ## 🏆 &nbsp; TROPHIES
 
+<!-- TROPHY_PLACEHOLDER_START — delete these 5 lines below and uncomment the img tag below once you earn trophies -->
 <div align="center">
 
 ![](https://img.shields.io/badge/🏆%20First%20Commit-Unlocked-a855f7?style=for-the-badge&labelColor=1a0533)
@@ -193,13 +194,16 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/><br/>
 
-> *🔒 More trophies unlock as contributions grow — check back soon!*
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-Hyper-Flix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" width="80%"/>
+*🔒 More trophies unlock as contributions grow — the board will appear here automatically!*
 
 </div>
+<!-- TROPHY_PLACEHOLDER_END -->
+
+<!-- UNCOMMENT BELOW WHEN YOU HAVE TROPHIES (delete the 3 lines above too):
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-Hyper-Flix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%"/>
+</div>
+-->
 
 <br/>
 
