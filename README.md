@@ -111,11 +111,11 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-%F0%9F%94%A5%20Mastered-a855f7?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533)
+![Python](https://img.shields.io/badge/Python-%F0%9F%94%A5%20Advanced-a855f7?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533)
 &nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-%F0%9F%94%A5%20Mastered-a855f7?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0533)
+![MySQL](https://img.shields.io/badge/MySQL-%F0%9F%94%A5%20Advanced-a855f7?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0533)
 &nbsp;
-![SQL](https://img.shields.io/badge/SQL-%F0%9F%94%A5%20Mastered-a855f7?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533)
+![SQL](https://img.shields.io/badge/SQL-%F0%9F%94%A5%20Advanced-a855f7?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533)
 
 <br/>
 
@@ -217,12 +217,13 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 | SKILL | LEVEL | MASTERY |
 |:---|:---:|:---|
-| 🐍 &nbsp; Python | `████████████████████` | **95% — Mastered 🔥** |
-| 🗄️ &nbsp; MySQL / SQL | `████████████████████` | **95% — Mastered 🔥** |
+| 🐍 &nbsp; Python | `█████████████████░░░` | **85% — Advanced ⚡** |
+| 🗄️ &nbsp; MySQL / SQL | `█████████████████░░░` | **85% — Advanced ⚡** |
 | 🔶 &nbsp; PL/SQL | `████████░░░░░░░░░░░░` | **40% — Growing 🌱** |
 | ⚙️ &nbsp; C Language | `████████████░░░░░░░░` | **60% — Solid ⚡** |
 | ☕ &nbsp; Java | `███████████░░░░░░░░░` | **55% — Solid ⚡** |
 | 🤖 &nbsp; Machine Learning | `████████████░░░░░░░░` | **60% — In Progress 🚀** |
+| 🧠 &nbsp; Artificial Intelligence | `████████████████░░░░` | **80% — Advancing 🌟** |
 | 🧩 &nbsp; Problem Solving | `████████████████████` | **95% — Obsessed 🧠** |
 | ⚔️ &nbsp; Anime Knowledge | `████████████████████` | **100% — Certified 🏴‍☠️** |
 
