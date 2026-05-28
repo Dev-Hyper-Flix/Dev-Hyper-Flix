@@ -167,9 +167,9 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-Hyper-Flix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_radius=14&count_private=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Hyper-Flix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_radius=14&count_private=true&rank_icon=github&cache_seconds=1800" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Hyper-Flix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&border_radius=14&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Hyper-Flix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&border_radius=14&langs_count=8&cache_seconds=1800" height="175"/>
 
 <br/><br/>
 
@@ -190,7 +190,9 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 ## 🏆 &nbsp; TROPHIES
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-Hyper-Flix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-Hyper-Flix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%"/>
+
 </div>
 
 <br/>
