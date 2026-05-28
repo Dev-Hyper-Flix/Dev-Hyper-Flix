@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=Dev-Hyper-Flix&fontSize=72&fontColor=c084fc&fontAlignY=42&fontStyle=bold&desc=ᴀʀᴛɪꜰɪᴄɪᴀʟ+ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ+·+ᴍᴀᴄʜɪɴᴇ+ʟᴇᴀʀɴɪɴɢ+·+ʙ.ᴛᴇᴄʜ&descAlignY=65&descSize=18&animation=fadeIn&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=Dev-Hyper-Flix&fontSize=72&fontColor=c084fc&fontAlignY=42&fontStyle=bold&desc=ARTIFICIAL+INTELLIGENCE+%C2%B7+MACHINE+LEARNING+%C2%B7+B.TECH&descAlignY=65&descSize=18&animation=fadeIn&descColor=a78bfa" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=780&lines=🌌+ᴀɪ+%26+ᴍʟ+ꜱᴛᴜᴅᴇɴᴛ+ᴡɪᴛʜ+ᴀ+ᴠɪꜱɪᴏɴ;🔥+ᴄᴏᴅᴇ+ɪꜱ+ᴍʏ+ꜱᴜᴘᴇʀᴘᴏᴡᴇʀ;⚔️+ᴀɴɪᴍᴇ+ʀᴜɴꜱ+ɪɴ+ᴍʏ+ᴠᴇɪɴꜱ;💾+ꜱqʟ+ᴍᴀꜱᴛᴇʀ+·+ᴘʏᴛʜᴏɴ+ᴡɪᴢᴀʀᴅ;🚀+ʙᴜɪʟᴅɪɴɢ+ᴛʜᴇ+ꜰᴜᴛᴜʀᴇ%2C+ᴏɴᴇ+ᴄᴏᴍᴍɪᴛ+ᴀᴛ+ᴀ+ᴛɪᴍᴇ" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=780&lines=AI+%26+ML+Student+with+a+Vision+%F0%9F%8C%8C;Code+is+my+Superpower+%F0%9F%94%A5;Anime+runs+in+my+veins+%E2%9A%94%EF%B8%8F;SQL+Master+%C2%B7+Python+Wizard+%F0%9F%92%BE;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dev-Hyper-Flix&style=for-the-badge&color=7c3aed&labelColor=0d0221&label=ᴘʀᴏꜰɪʟᴇ+ᴠɪᴇᴡꜱ"/>
+<img src="https://komarev.com/ghpvc/?username=Dev-Hyper-Flix&style=for-the-badge&color=7c3aed&labelColor=0d0221&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Dev-Hyper-Flix?style=for-the-badge&color=7c3aed&labelColor=0d0221&label=ꜰᴏʟʟᴏᴡᴇʀꜱ"/>
+<img src="https://img.shields.io/github/followers/Dev-Hyper-Flix?style=for-the-badge&color=7c3aed&labelColor=0d0221&label=FOLLOWERS"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ʏᴇᴀʀ-3ʀᴅ%20ʙ.ᴛᴇᴄʜ-a855f7?style=for-the-badge&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/YEAR-3rd%20B.TECH-a855f7?style=for-the-badge&labelColor=0d0221"/>
 
 </div>
 
@@ -20,38 +20,47 @@
 
 <br/>
 
-## ✦ &nbsp; ᴀʙᴏᴜᴛ ᴍᴇ
+## ✦ &nbsp; ABOUT ME
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-**ʜᴇʏ ᴛʜᴇʀᴇ!** I'm a passionate **3rd-year B.Tech student** specialising in **Artificial Intelligence & Machine Learning**, with an insatiable hunger for building things that matter.
+**Hey there!** I'm a passionate **3rd-year B.Tech student** specialising in **Artificial Intelligence & Machine Learning**, with an insatiable hunger for building things that matter.
 
 I live at the intersection of **logic and creativity** — where clean SQL queries meet chaotic 3 AM coding experiments, and where debugging sessions somehow turn into breakthroughs.
 
 <br/>
 
-🎓 &nbsp; **ᴅᴇɢʀᴇᴇ** &nbsp;·&nbsp; B.Tech — AI & ML &nbsp;|&nbsp; 3rd Year
+🎓 &nbsp; **DEGREE** &nbsp;·&nbsp; B.Tech — AI & ML &nbsp;|&nbsp; 3rd Year
 <br/>
-🧠 &nbsp; **ꜰᴏᴄᴜꜱ** &nbsp;·&nbsp; Machine Learning · Databases · Systems
+🧠 &nbsp; **FOCUS** &nbsp;·&nbsp; Machine Learning · Databases · Systems
 <br/>
-🌏 &nbsp; **ʟᴏᴄᴀᴛɪᴏɴ** &nbsp;·&nbsp; India 🇮🇳
+🌏 &nbsp; **LOCATION** &nbsp;·&nbsp; India 🇮🇳
 <br/>
-⚡ &nbsp; **ᴠɪʙᴇ** &nbsp;·&nbsp; Turning caffeine into commits
+⚡ &nbsp; **VIBE** &nbsp;·&nbsp; Turning caffeine into commits
 <br/>
-🎌 &nbsp; **ʟɪꜰᴇꜱᴛʏʟᴇ** &nbsp;·&nbsp; Anime · Code · Repeat
+🎌 &nbsp; **LIFESTYLE** &nbsp;·&nbsp; Anime · Code · Repeat
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <br/>
 
-## 🌠 &nbsp; ᴍʏ ᴀᴍʙɪᴛɪᴏɴ
+## 🌠 &nbsp; MY AMBITION
 
 <div align="center">
 
-> ### *"ɪ ᴅᴏɴ'ᴛ ᴡᴀɴᴛ ᴛᴏ ꜰɪᴛ ɪɴᴛᴏ ᴛʜᴇ ɪɴᴅᴜꜱᴛʀʏ.*
-> ### *ɪ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴅᴇꜰɪɴᴇ ɪᴛ."*
+> ### *"I don't want to fit into the industry.*
+> ### *I want to redefine it."*
 
 </div>
 
@@ -59,11 +68,11 @@ I live at the intersection of **logic and creativity** — where clean SQL queri
 
 I'm not here to build another todo app. I'm here to create **AI systems that feel alive** — things that learn, adapt, and make people stop and stare.
 
-| &nbsp; | ᴛɪᴍᴇʟɪɴᴇ | ᴅʀᴇᴀᴍ |
+| &nbsp; | TIMELINE | DREAM |
 |:---:|:---|:---|
-| 🎯 | **ɴᴏᴡ** | Master ML from math to deployment. Build projects that make people go *"wait, he built THAT?"* |
-| 🚀 | **ꜱᴏᴏɴ** | Contribute to open-source AI. Get code running in real production systems that real people use. |
-| 🌌 | **ᴇᴠᴇɴᴛᴜᴀʟʟʏ** | Found something — a startup, a lab, a tool that changes how humans interact with technology forever. |
+| 🎯 | **NOW** | Master ML from math to deployment. Build projects that make people go *"wait, he built THAT?"* |
+| 🚀 | **SOON** | Contribute to open-source AI. Get code running in real production systems that real people use. |
+| 🌌 | **EVENTUALLY** | Found something — a startup, a lab, a tool that changes how humans interact with technology forever. |
 
 > *And somewhere along the way — write the most legendary SQL query anyone has ever witnessed.*
 
@@ -73,7 +82,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## ⚔️ &nbsp; ᴏɴᴇ ᴘɪᴇᴄᴇ ᴠɪʙᴇꜱ &nbsp;—&nbsp; ᴍʏ ᴀɴɪᴍᴇ ᴡᴏʀʟᴅ
+## ⚔️ &nbsp; ONE PIECE VIBES &nbsp;—&nbsp; MY ANIME WORLD
 
 <div align="center">
 
@@ -81,8 +90,8 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/><br/>
 
-> *"ʟᴜꜰꜰʏ ᴡᴇɴᴛ ꜰʀᴏᴍ ᴢᴇʀᴏ ᴛᴏ ᴋɪɴɢ ᴏꜰ ᴛʜᴇ ᴘɪʀᴀᴛᴇꜱ.*
-> *ɪ'ᴍ ɢᴏɪɴɢ ꜰʀᴏᴍ ꜱᴛᴜᴅᴇɴᴛ ᴛᴏ ᴋɪɴɢ ᴏꜰ ᴛʜᴇ ꜱᴛᴀᴄᴋ."*
+> *"Luffy went from zero to King of the Pirates.*
+> *I'm going from student to King of the Stack."*
 
 **🏴‍☠️ &nbsp; One Piece &nbsp;·&nbsp; Jujutsu Kaisen &nbsp;·&nbsp; Attack on Titan &nbsp;·&nbsp; Naruto &nbsp;·&nbsp; Death Note &nbsp;·&nbsp; Code Geass**
 
@@ -94,11 +103,11 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## 🛠️ &nbsp; ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
+## 🛠️ &nbsp; TECH STACK
 
 <div align="center">
 
-### ᴘʀɪᴍᴀʀʏ ᴡᴇᴀᴘᴏɴꜱ
+### PRIMARY WEAPONS
 
 <br/>
 
@@ -118,7 +127,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/><br/>
 
-### ᴀɪ / ᴍʟ ᴀʀꜱᴇɴᴀʟ
+### AI / ML ARSENAL
 
 <br/>
 
@@ -132,7 +141,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/><br/>
 
-### ᴛᴏᴏʟꜱ & ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ
+### TOOLS & ENVIRONMENT
 
 <br/>
 
@@ -154,7 +163,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## 📊 &nbsp; ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+## 📊 &nbsp; GITHUB STATS
 
 <div align="center">
 
@@ -164,7 +173,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Hyper-Flix&theme=tokyonight&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=e2e8f0&sideLabels=a78bfa&currStreakNum=c084fc&sideNums=c084fc&dates=6b7280&border_radius=14" width="62%"/>
+<img src="https://streak-stats.demolab.com/?user=Dev-Hyper-Flix&theme=tokyonight&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=e2e8f0&sideLabels=a78bfa&currStreakNum=c084fc&sideNums=c084fc&dates=6b7280&border_radius=14" width="62%"/>
 
 <br/><br/>
 
@@ -178,7 +187,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## 🏆 &nbsp; ᴛʀᴏᴘʜɪᴇꜱ
+## 🏆 &nbsp; TROPHIES
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Dev-Hyper-Flix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%"/>
@@ -190,11 +199,11 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## 📈 &nbsp; ꜱᴋɪʟʟ ᴍᴀꜱᴛᴇʀʏ
+## 📈 &nbsp; SKILL MASTERY
 
 <div align="center">
 
-| ꜱᴋɪʟʟ | ʟᴇᴠᴇʟ | ᴍᴀꜱᴛᴇʀʏ |
+| SKILL | LEVEL | MASTERY |
 |:---|:---:|:---|
 | 🐍 &nbsp; Python | `████████████████████` | **95% — Mastered 🔥** |
 | 🗄️ &nbsp; MySQL / SQL | `████████████████████` | **95% — Mastered 🔥** |
@@ -213,11 +222,11 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## 🌀 &nbsp; ᴡʜᴀᴛ ɪ'ᴍ ᴜᴘ ᴛᴏ
+## 🌀 &nbsp; WHAT I'M UP TO
 
 <div align="center">
 
-| ꜱᴛᴀᴛᴜꜱ | ᴛᴀꜱᴋ |
+| STATUS | TASK |
 |:---:|:---|
 | ✅ | Surviving **3rd year B.Tech** with style |
 | ✅ | Deepening **ML** knowledge — models, maths & madness |
@@ -236,10 +245,16 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## 🐍 &nbsp; ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ꜱɴᴀᴋᴇ
+## 🐍 &nbsp; CONTRIBUTION SNAKE
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dev-Hyper-Flix/Dev-Hyper-Flix/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Hyper-Flix/Dev-Hyper-Flix/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Hyper-Flix/Dev-Hyper-Flix/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Dev-Hyper-Flix/Dev-Hyper-Flix/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</picture>
+
 </div>
 
 <br/>
@@ -248,7 +263,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## 💬 &nbsp; ʀᴀɴᴅᴏᴍ ᴅᴇᴠ ǫᴜᴏᴛᴇ
+## 💬 &nbsp; RANDOM DEV QUOTE
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="72%"/>
@@ -260,23 +275,19 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <br/>
 
-## 📡 &nbsp; ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
+## 📡 &nbsp; CONNECT WITH ME
 
 <div align="center">
 
 <br/>
 
-> ### 🚧 &nbsp; *ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴛᴀɪʟꜱ ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ — ꜱᴛᴀʏ ᴛᴜɴᴇᴅ!* &nbsp; 🚧
-
-<br/>
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533)
+[![Gmail](https://img.shields.io/badge/Gmail-shreyyya377%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533)](mailto:shreyyya377@gmail.com)
 &nbsp;
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreya%20Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-mishra-0b7a10331)
 &nbsp;
-![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a0533)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-@shreya745963052-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a0533)](https://x.com/shreya745963052)
 &nbsp;
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0533)
+[![Discord](https://img.shields.io/badge/Discord-shreyamishra__43116-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0533)](https://discord.com/users/shreyamishra_43116)
 
 </div>
 
@@ -286,14 +297,14 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0221&height=130&section=footer&text=ᴛʜᴀɴᴋꜱ+ꜰᴏʀ+ᴠɪꜱɪᴛɪɴɢ+✨&fontSize=22&fontColor=c084fc&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0221&height=130&section=footer&text=Thanks+for+Visiting+%E2%9C%A8&fontSize=22&fontColor=c084fc&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-**「 ɪꜰ ᴛʜɪꜱ ʀᴇꜱᴏɴᴀᴛᴇꜱ ᴡɪᴛʜ ʏᴏᴜ — ᴅʀᴏᴘ ᴀ ⭐ 」**
+**「 IF THIS RESONATES WITH YOU — DROP A ⭐ 」**
 
 <br/>
 
-*crafted with* &nbsp; 💜 &nbsp; *+* &nbsp; ☕ &nbsp; *+* &nbsp; 🎵 *anime ᴏꜱᴛꜱ ᴏɴ ʟᴏᴏᴘ*
+*crafted with* &nbsp; 💜 &nbsp; *+* &nbsp; ☕ &nbsp; *+* &nbsp; 🎵 *anime OSTs on loop*
 
 </div>
