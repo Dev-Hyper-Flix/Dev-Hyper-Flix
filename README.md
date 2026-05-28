@@ -136,8 +136,6 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a0533)
 &nbsp;
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a0533)
-&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a0533)
 
 <br/><br/>
 
@@ -152,8 +150,6 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a0533)
 &nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1a0533)
-&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a0533)
 
 </div>
 
@@ -224,7 +220,7 @@ I'm not here to build another todo app. I'm here to create **AI systems that fee
 | ☕ &nbsp; Java | `███████████░░░░░░░░░` | **55% — Solid ⚡** |
 | 🤖 &nbsp; Machine Learning | `████████████░░░░░░░░` | **60% — In Progress 🚀** |
 | 🧠 &nbsp; Artificial Intelligence | `████████████████░░░░` | **80% — Advancing 🌟** |
-| 🧩 &nbsp; Problem Solving | `████████████████████` | **95% — Obsessed 🧠** |
+| 🧩 &nbsp; Problem Solving | `████████████████░░░░` | **80% — Advancing 🌟** |
 | ⚔️ &nbsp; Anime Knowledge | `████████████████████` | **100% — Certified 🏴‍☠️** |
 
 </div>
